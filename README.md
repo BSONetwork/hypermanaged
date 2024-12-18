@@ -19,7 +19,7 @@ BSO is in charge of document every part of how to handle a managed service withi
  - Data export
  - System removal
  - [Automation documentation](automation-documentation.md)
- - Bastion usage
+ - [Bastion setup & usage](https://github.com/vdombrovski/sshportal)
  - Plateform documentation template
  - Information system feed
  - Plateform design
