@@ -5,10 +5,10 @@ The SRE framework is an attempt to improve work, collaboration, knowledge and qu
 The framework is structured around 4 pillars:
 
 - The day-to-day routine every team member should do
-- The ***Responder*** (03-SRE-Responder.md) role, which implies to handle incoming tickets and alerts during the working day
-- The ***Archivist*** (02-SRE-Archivist.md) role, which implies to review and update documentation, whether as a housekeeping routine or following a change or an
+- The [Responder] (03-SRE-Responder.md) role, which implies to handle incoming tickets and alerts during the working day
+- The [Archivist] (02-SRE-Archivist.md) role, which implies to review and update documentation, whether as a housekeeping routine or following a change or an
 incident, and doing some cleanup here and there
-- The ***On-call*** role, which implies to handle incidents and high priority tickets outside of business hours
+- The [On-call] (07-SRE-Oncall.md) role, which implies to handle incidents and high priority tickets outside of business hours
 
 You’ll find below dedicated pages for going through these different roles.
 
