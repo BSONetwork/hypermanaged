@@ -12,13 +12,13 @@ BSO is in charge of document every part of how to handle a managed service withi
 ## Build
  - Create system
  - Create network
- - [Create project & namespace](/build/create-project-and-namespace.md)
+ - [Create project & namespace](create-project-and-namespace.md)
  - Naming convention
  - Delete platform
  - Backups
  - Data export
  - System removal
- - [Automation documentation](/build/automation-documentation.md)
+ - [Automation documentation](automation-documentation.md)
  - Bastion usage
  - Plateform documentation template
  - Information system feed
@@ -35,7 +35,7 @@ BSO is in charge of document every part of how to handle a managed service withi
  - Housekeeping
 
 ## Organization
- - [Ticketing system](/build/ticketing-system.md)
+ - [Ticketing system](ticketing-system.md)
  - On call rotation
  - Technical commity
  - Compagny side escalation matrix
@@ -45,9 +45,9 @@ BSO is in charge of document every part of how to handle a managed service withi
  - Monitoring/metering review policy
  - Review tasks
  - Periodic information/warning review
- - [Log dashboards](/build/log-dashboards.md)
+ - [Log dashboards](log-dashboards.md)
  - Hardware monitoring
- - [System level monitoring](/build/system-level-monitoring.md)
- - [Service monitoring](/build/service-monitoring.md)
+ - [System level monitoring](system-level-monitoring.md)
+ - [Service monitoring](service-monitoring.md)
  - Action definition for each alert
  - Client side escalation matrix
